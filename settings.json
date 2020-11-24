@@ -1,37 +1,45 @@
 {
+	"profiles":
+	{
+		"defaults":
+		{
+			/* MellowCream Light Theme */
+		}
+	},
+	
 	"schemes":
 	[
 		/* MellowCream Light Theme */
 		{
 			"name" : "MellowCream Light",
-
+			
 			"cursorColor": "#78595f",
 			"selectionBackground": "#6d7980",
-
+			
 			"background" : "#fff2e5",
 			"foreground" : "#59597f",
-
+			
 			"black" : "#262626",
 			"brightBlack" : "#676767",
-
+			
 			"white" : "#7f7f7f",
 			"brightWhite" : "#727f72",
-
+			
 			"red" : "#7f0000",
 			"brightRed" : "#b20000",
-
+			
 			"green" : "#007f00",
 			"brightGreen" : "#00b200",
-
+			
 			"blue" : "#00007f",
 			"brightBlue" : "#0000b2",
-
+			
 			"cyan" : "#007f7f",
 			"brightCyan" : "#00b2b2",
-
+			
 			"purple" : "#400040",
 			"brightPurple" : "#590059",
-
+			
 			"yellow" : "#e57300",
 			"brightYellow" : "#ff8c19"
 		}
