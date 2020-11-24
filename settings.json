@@ -2,5 +2,8 @@
 	"schemes":
 	[
 		/* MellowCream Light Theme */
+		{
+			"name" : "MellowCream Light"
+		}
 	]
 }
