@@ -12,7 +12,10 @@
 			"brightWhite" : "#727f72",
 
 			"red" : "#7f0000",
-			"brightRed" : "#b20000"
+			"brightRed" : "#b20000",
+
+			"green" : "#007f00",
+			"brightGreen" : "#00b200"
 		}
 	]
 }
