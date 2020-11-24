@@ -5,6 +5,9 @@
 		{
 			"name" : "MellowCream Light",
 
+			"cursorColor": "#78595f",
+			"selectionBackground": "#6d7980",
+
 			"background" : "#fff2e5",
 			"foreground" : "#59597f",
 
