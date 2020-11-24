@@ -9,7 +9,10 @@
 			"brightBlack" : "#676767",
 
 			"white" : "#7f7f7f",
-			"brightWhite" : "#727f72"
+			"brightWhite" : "#727f72",
+
+			"red" : "#7f0000",
+			"brightRed" : "#b20000"
 		}
 	]
 }
