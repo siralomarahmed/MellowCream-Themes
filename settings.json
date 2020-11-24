@@ -4,7 +4,9 @@
 		"defaults":
 		{
 			/* MellowCream Light Theme */
-			"colorScheme": "MellowCream Light"
+			"colorScheme": "MellowCream Light",
+			"cursorShape": "vintage",
+			"cursorHeight": 30
 		}
 	},
 	
