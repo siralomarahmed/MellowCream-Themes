@@ -6,7 +6,10 @@
 			"name" : "MellowCream Light",
 
 			"black" : "#262626",
-			"brightBlack" : "#676767"
+			"brightBlack" : "#676767",
+
+			"white" : "#7f7f7f",
+			"brightWhite" : "#727f72"
 		}
 	]
 }
