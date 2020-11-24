@@ -3,7 +3,10 @@
 	[
 		/* MellowCream Light Theme */
 		{
-			"name" : "MellowCream Light"
+			"name" : "MellowCream Light",
+
+			"black" : "#262626",
+			"brightBlack" : "#676767"
 		}
 	]
 }
