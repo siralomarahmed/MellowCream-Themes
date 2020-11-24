@@ -5,6 +5,9 @@
 		{
 			"name" : "MellowCream Light",
 
+			"background" : "#fff2e5",
+			"foreground" : "#59597f",
+
 			"black" : "#262626",
 			"brightBlack" : "#676767",
 
