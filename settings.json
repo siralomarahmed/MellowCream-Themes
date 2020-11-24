@@ -15,7 +15,10 @@
 			"brightRed" : "#b20000",
 
 			"green" : "#007f00",
-			"brightGreen" : "#00b200"
+			"brightGreen" : "#00b200",
+
+			"blue" : "#00007f",
+			"brightBlue" : "#0000b2"
 		}
 	]
 }
