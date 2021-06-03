@@ -25,5 +25,6 @@
   "yellow": "#BFBF40",
   "brightYellow": "#D6D684",
 
-  "cyan": "#40BFBF"
+  "cyan": "#40BFBF",
+  "brightCyan": "#84D6D6"
 }
