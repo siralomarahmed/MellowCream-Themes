@@ -28,5 +28,6 @@
   "cyan": "#40BFBF",
   "brightCyan": "#84D6D6",
 
-  "purple": "#BF40BF"
+  "purple": "#BF40BF",
+  "brightPurple": "#D684D6"
 }
