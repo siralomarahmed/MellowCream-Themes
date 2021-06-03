@@ -1,8 +1,7 @@
 # Project Description #
 
-This is a light theme project for the windows terminal.
-
-Soft mix of orange, blue and green.
+This is a theme project based on Soft mix of orange, blue, yellow and 
+green.
 
 
 ## Themes ##
