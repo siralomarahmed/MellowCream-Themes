@@ -7,5 +7,6 @@
   "background": "#213131",
   "foreground": "#C0A1A1",
 
-  "black": "#060404"
+  "black": "#060404",
+  "brightBlack": "#875A5A"
 }
