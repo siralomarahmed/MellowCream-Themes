@@ -13,5 +13,6 @@
   "white": "#C6C3C3",
   "brightWhite": "#DAD8D8",
 
-  "red": "#BF4040"
+  "red": "#BF4040",
+  "brightRed": "#DB9292"
 }
