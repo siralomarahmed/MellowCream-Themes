@@ -7,4 +7,6 @@ Soft mix of orange, blue and green.
 
 ## Themes ##
 
-1. [MellowCream-Light](https://github.com/siralomarahmed/MellowCream-Themes/blob/main/MellowCream-Light/Windows-Terminal/settings.json).
+1. [MellowCream-Light](https://github.com/\
+siralomarahmed/mellowcream-Themes/blob/main/\
+MellowCream-Light/Windows-Terminal/settings.json).
