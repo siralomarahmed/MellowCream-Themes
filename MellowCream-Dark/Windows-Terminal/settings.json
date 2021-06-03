@@ -1,4 +1,6 @@
 {
   "name": "MellowCream-Dark",
-  "cursorColor": "#BFBF40"
+
+  "cursorColor": "#BFBF40",
+  "selectionBackground": "#6D7980"
 }
