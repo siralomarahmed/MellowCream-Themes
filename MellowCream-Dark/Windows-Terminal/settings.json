@@ -14,5 +14,7 @@
   "brightWhite": "#DAD8D8",
 
   "red": "#BF4040",
-  "brightRed": "#DB9292"
+  "brightRed": "#DB9292",
+
+  "green": "#40BF40"
 }
