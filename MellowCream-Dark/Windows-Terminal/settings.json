@@ -10,5 +10,6 @@
   "black": "#060404",
   "brightBlack": "#875A5A",
 
-  "white": "#C6C3C3"
+  "white": "#C6C3C3",
+  "brightWhite": "#DAD8D8"
 }
