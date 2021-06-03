@@ -4,5 +4,6 @@
   "cursorColor": "#BFBF40",
   "selectionBackground": "#6D7980",
 
-  "background": "#213131"
+  "background": "#213131",
+  "foreground": "#C0A1A1"
 }
