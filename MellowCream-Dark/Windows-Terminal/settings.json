@@ -5,5 +5,7 @@
   "selectionBackground": "#6D7980",
 
   "background": "#213131",
-  "foreground": "#C0A1A1"
+  "foreground": "#C0A1A1",
+
+  "black": "#060404"
 }
